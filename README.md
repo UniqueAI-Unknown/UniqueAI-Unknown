@@ -6,9 +6,6 @@
 MIRROR AI Lab explores **Human AI** — intelligence that understands
 meaning, intent, emotional state, and context in ways that resemble human cognition.
 
-This work is not about products.  
-It is about intelligence itself.
-
 ## 🪞 MIRROR
 
 MIRROR is an experimental research system exploring how understanding emerges
