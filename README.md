@@ -1,8 +1,8 @@
-# MIRROR AI Lab
+# Speculo
 Exploring the Foundations of Human Intelligence
 
 🧠 I am an independent developer, exploring the essence of intelligence.
-MIRROR AI Lab studies Human AI — intelligence that perceives meaning, intent, emotion, and context like humans do.
+I study Human AI — intelligence that perceives meaning, intent, emotion, and context like humans do.
 
 🪞 MIRROR
 
